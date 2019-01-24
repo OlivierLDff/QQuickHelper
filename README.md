@@ -9,14 +9,6 @@ A collection of helper for QtQuick and QtQuickControls to build faster UI using 
 - [DoxygenBootstrapped](https://github.com/OlivierLDff/DoxygenBootstrapped) : Integrate doxygen with CMake. *v1.3.2*.
 - *QtCore QtGui QtQuick QtQuickControls2*
 
-## API
-
-* The documentation can be found [here](https://olivierldff.github.io/QQuickHelperDoc/)
-
-## Release
-
-* `5.11` : Based on QtQuick 5.11 
-
 ## CMake
 
 ### Build
