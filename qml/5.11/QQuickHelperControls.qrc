@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/QQuickHelper/Controls.5.11">
+    	<file>qmldir</file>
+		<file>SplashScreen.qml</file>
+		<file>ThemeSettings.qml</file>
+		<file>Toast.qml</file>
+		<file>ToastManager.qml</file>
+		<file>FlatToolButton.qml</file>
+		<file>FlatToolSeparator.qml</file>
+		<file>LabelProgressBar.qml</file>
+		<file>LabelComboBox.qml</file>
+		<file>LoadingDialog.qml</file>
+		<file>DropFileArea.qml</file>	
+		<file>TextField.qml</file>	
+		<file>ScrollablePage.qml</file>	
+		<file>ColorIcon.qml</file>	
+		<file>ItemDelegate.qml</file>	
+		<file>MenuLabel.qml</file>
+		<file>ModalDialog.qml</file>
+		<file>SwitchDelegate.qml</file>
+		<file>SliderDelegate.qml</file>
+		<file>RadioButtonDialog.qml</file>
+		<file>EnumDelegate.qml</file>
+		<file>RadioDelegate.qml</file>
+		<file>Dialog.qml</file>
+		<file>SwipeDelegateWithInfo.qml</file>
+		<file>SwipeDelegateDraggable.qml</file>
+		<file>CheckDelegate.qml</file>		
+		<file>CheckableListView.qml</file>
+		<file>CheckableListViewDelegate.qml</file>
+		<file>CheckableListViewToolBar.qml</file>	
+		<file>TextFieldDelegate.qml</file>
+		<file>TextFieldDialog.qml</file>			
+		<file>ErrorDialog.qml</file>
+		<file>ErrorDialogManager.qml</file>
+		<file>Label.qml</file>
+		<file>TabButton.qml</file>
+    </qresource>
+</RCC>
