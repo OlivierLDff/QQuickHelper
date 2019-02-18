@@ -1,4 +1,5 @@
 <RCC>
-    <qresource prefix="qrc:/QQuickHelper/Controls.5.12">
+    <qresource prefix="/QQuickHelper/Controls.5.12">
+    	<file>qmldir</file>
     </qresource>
 </RCC>
