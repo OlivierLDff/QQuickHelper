@@ -3,7 +3,7 @@ SET( QQUICKHELPER_PROJECT "QQuickHelper" CACHE STRING "Project Name")
 SET( QQUICKHELPER_BUILD_SHARED OFF CACHE BOOL "Build as a shared library" )
 SET( QQUICKHELPER_USE_NAMESPACE ON CACHE BOOL "Should the library be compiled with a namespace. Default: ON" )
 SET( QQUICKHELPER_NAMESPACE "Qqh" CACHE BOOL "Namespace of the library is QQUICKHELPER_USE_NAMESPACE is ON. Default : Qqh" )
-SET( QQUICKHELPER_QTVERSION "5.11" CACHE STRING "Version that is going to be compiled" )
+SET( QQUICKHELPER_QTVERSION "5.12" CACHE STRING "Version that is going to be compiled" )
 
 SET(QQUICKHELPER_VERSION_MAJOR 1)
 SET(QQUICKHELPER_VERSION_MINOR 0)
